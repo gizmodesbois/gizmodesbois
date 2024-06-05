@@ -1,4 +1,14 @@
-![Hello there](banner.jpg "Banner")
+![Hello there](hero-banner.jpg "Banner")
+
+# Hello there 👋
+
+My name is Simon and I'm a senior front end developer currently working at Nodalview.
+
+### Where to find me
+
+[🕸️](https://simonhenrotte.com)
+[🧑‍💻](https://www.linkedin.com/in/simonhenrotte/)
+[📸](https://unsplash.com/fr/@simonhen)
 
 <!--
 **gizmodesbois/gizmodesbois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
