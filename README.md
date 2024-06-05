@@ -1,4 +1,4 @@
-![Hello there](hero-banner.jpg "Banner")
+![Hello there](hero.jpg "Banner")
 
 # Hello there 👋
 
